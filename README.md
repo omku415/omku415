@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **,Node.js**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **omku415@gmail.com**
 
