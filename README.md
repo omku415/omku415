@@ -4,7 +4,7 @@
 <h3 align="center">"Passionate about Web Development | Exploring DSA with C++"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omku415&label=Profile%20views&color=0e75b6&style=flat" alt="omku415" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **omku415@gmail.com**
 
@@ -20,6 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express.js)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)\
