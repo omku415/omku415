@@ -30,14 +30,15 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white" />
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
+<p align="center">
   <a href="https://github.com/omku415">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omku415&show_icons=true&theme=algolia&include_all_commits=true&cache_seconds=1800"/>
+  </a><a href="https://github.com/omku415">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omku415&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
   </a>
-  <a href="https://github.com/omku415">
-    <img height="150em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omku415&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
-  </a>
-</div>
+</p>
+
+
 
 
 
