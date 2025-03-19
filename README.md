@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
 <h3 align="center">"Passionate about Web Development | Exploring DSA with C++"</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omku415&label=Profile%20views&color=0e75b6&style=flat" alt="omku415" /> </p>
+
 
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **Web Development**
