@@ -27,6 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-282C34?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
 <img alt="npm" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white" />
 
 ## ⚙️ &nbsp;GitHub Analytics
