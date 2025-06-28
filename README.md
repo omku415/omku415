@@ -28,7 +28,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-282C34?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
-<img alt="npm" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white" />
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
