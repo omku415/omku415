@@ -36,11 +36,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/omku415">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omku415&show_icons=true&theme=algolia&include_all_commits=true&cache_seconds=1800"/>
-  </a><a href="https://github.com/omku415">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omku415&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omku415&show_icons=true&theme=algolia&include_all_commits=true&cache_seconds=1800&t=1"/>
+  </a>
+  <a href="https://github.com/omku415">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omku415&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800&t=1"/>
   </a>
 </p>
+
 
 
 
