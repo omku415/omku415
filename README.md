@@ -2,7 +2,7 @@
   <img 
     src="https://images.unsplash.com/photo-1506452819137-0422416856b8?q=80&w=800&auto=format&fit=contain&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
     alt="Clock" 
-    style="width:600px; height:auto;" 
+    style="width:400px; height:auto;" 
   />
 </div>
 
