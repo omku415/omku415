@@ -1,4 +1,4 @@
-<div align="center"><img src ="https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW90aXZhdGlvbnxlbnwwfHwwfHx8MA%3D%3D"/> </div>
+<div align="center"><img src ="https://images.unsplash.com/photo-1506452819137-0422416856b8?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/> </div>
 
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
 <h3 align="center">"Passionate about Web Development | Exploring DSA with C++"</h3>
