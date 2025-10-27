@@ -14,12 +14,23 @@
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **omku415@gmail.com**
 
-## 🤝 Connect with me:
+## 🌐 My Profiles
+
 <p align="left">
-<a href="https://www.linkedin.com/in/om-kumar-9a1a052bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/omkumar.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkumar.45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omku45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omku45" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/om-kumar-9a1a052bb" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/omkumar.45" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/omku45" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
+
+
+
+
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
