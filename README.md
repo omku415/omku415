@@ -10,8 +10,7 @@
 <h3 align="center">"Passionate about Web Development | Exploring DSA with C++"</h3>
 
 
-- 🌱 I’m currently learning **React.js**
-- 💬 Ask me about **Web Development**
+
 - 📫 How to reach me **omku415@gmail.com**
 
 ## 🌐 My Profiles
