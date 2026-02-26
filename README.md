@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
-<h3 align="center">"Passionate about Web Development | Exploring DSA with C++"</h3>
+<h3 align="center">Learning Web Dev, exploring AI, and sharpening DSA skills.</h3>
 
 
 
