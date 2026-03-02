@@ -1,10 +1,4 @@
-<div align="center">
-  <img 
-    src="https://images.unsplash.com/photo-1506452819137-0422416856b8?q=80&w=800&auto=format&fit=contain&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-    alt="Clock" 
-    style="width:500px; height:auto;" 
-  />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
 <h3 align="center">Learning Web Dev, exploring AI, and sharpening DSA skills.</h3>
@@ -25,8 +19,10 @@
   <a href="https://leetcode.com/omku45" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://codeforces.com/profile/om_infinity45" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
-
 
 
 
